@@ -70,13 +70,4 @@ int main() {
 	if (decision != 'Y' && decision != 'y')
 		cout << "Thank you for playing the game.\n";
 		return 0;
-		/*
-		Name: Seeyan Shabbar Gaus Newaz
-		Course Name: Computer Science
-		Course Number: 1336
-		Section: 0L2
-		Due Date: October 11, 2022 by 11:59pm
-		Date completed: October 8, 2022
-		Date submitted: October 11, 2022
-		*/
 }
